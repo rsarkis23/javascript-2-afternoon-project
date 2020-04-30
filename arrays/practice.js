@@ -126,6 +126,10 @@ var methodCollection = {}
 */
 
 //Code Here
+methodCollection.alertHello = alert('hello')
+methodCollection.logtHello = console.log('hello')
+
+
 
 
 /*
